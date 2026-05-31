@@ -1,3 +1,8 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'en-gb'
+title = 'Vanilla Hugo Awesome and Obsidian starter kit'
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+[params]
+  goToTop = true
