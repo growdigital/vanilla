@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c40fb79920e17b36",
+        "id": "19e43c4101de8c6b",
         "type": "tabs",
         "children": [
           {
-            "id": "6ea61e9cb229a251",
+            "id": "230bec6f02e63597",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -166,10 +162,24 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6ea61e9cb229a251",
+  "active": "230bec6f02e63597",
   "lastOpenFiles": [
     "content/260613-test.md",
+    "public/tags/image/index.xml",
+    "public/tags/image/index.html",
+    "public/tags/image",
+    "content/260613-test.html",
+    "assets/images/260613-test/260613-test-04.webp",
+    "assets/images/260613-test/260613-test-02.webp",
+    "assets/images/260613-test/260613-test-01.webp",
+    "assets/images/260613-test/260613-test-03.webp",
+    "assets/images/260613-test",
     "templates/blog.md",
+    "public/260613-test/index.html",
+    "public/260613-test",
+    "assets/images/260613-test/260613-test-07.webp",
+    "assets/images/260613-test/260613-test-{counter_00X}.webp",
+    "README.md",
     "content/260614-.md",
     "templates",
     "content/202606130919.md",

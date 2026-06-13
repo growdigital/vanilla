@@ -7,5 +7,6 @@
   "obsidian-table-generator",
   "obsidian-text-format",
   "image-converter",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-pandoc"
 ]

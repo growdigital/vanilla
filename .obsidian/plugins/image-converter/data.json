@@ -34,7 +34,7 @@
     },
     {
       "name": "Counter",
-      "customTemplate": "{notename}-{counter:00X}",
+      "customTemplate": "{notename}-{counter:00}",
       "skipRenamePatterns": ""
     }
   ],
@@ -164,9 +164,14 @@
         "pathFormat": "relative",
         "prependCurrentDir": true,
         "hideFolders": false
+      },
+      {
+        "name": "Markdown Absolute",
+        "linkFormat": "markdown",
+        "pathFormat": "absolute"
       }
     ],
-    "selectedLinkFormatPreset": "Markdown, Relative"
+    "selectedLinkFormatPreset": "Markdown Absolute"
   },
   "nonDestructiveResizeSettings": {
     "resizePresets": [
@@ -353,7 +358,7 @@
   "showSpaceSavedNotification": true,
   "revertToOriginalIfLarger": false,
   "minimumCompressionSavingsInKB": 30,
-  "enableImageCaptions": true,
+  "enableImageCaptions": false,
   "skipCaptionExtensions": "icns",
   "captionFontSize": "var(--font-smaller)",
   "captionColor": "var(--text-gray)",

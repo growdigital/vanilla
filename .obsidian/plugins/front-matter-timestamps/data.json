@@ -7,7 +7,7 @@
   "allowNonEmptyNewFile": true,
   "delayAddingTimestamps": 1000,
   "excludedFolders": [
-    "archetypes"
+    "templates"
   ],
   "customCommand": "",
   "debug": false
