@@ -1,0 +1,5 @@
+{
+  "folder": "content",
+  "template": "templates/blog",
+  "format": "YYMMDD-"
+}
